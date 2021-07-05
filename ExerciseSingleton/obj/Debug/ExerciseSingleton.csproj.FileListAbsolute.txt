@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\ExerciseSingleton\bin\Debug\SingletonExercise.exe.config
+C:\Users\Ranieri\Desktop\ExerciseSingleton\bin\Debug\SingletonExercise.exe
+C:\Users\Ranieri\Desktop\ExerciseSingleton\bin\Debug\SingletonExercise.pdb
+C:\Users\Ranieri\Desktop\ExerciseSingleton\obj\Debug\ExerciseSingleton.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\ExerciseSingleton\obj\Debug\ExerciseSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\ExerciseSingleton\obj\Debug\SingletonExercise.exe
+C:\Users\Ranieri\Desktop\ExerciseSingleton\obj\Debug\SingletonExercise.pdb

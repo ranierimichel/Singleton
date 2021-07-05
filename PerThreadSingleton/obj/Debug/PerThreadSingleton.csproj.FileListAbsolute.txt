@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\PerThreadSingleton\bin\Debug\PerThreadSingleton.exe.config
+C:\Users\Ranieri\Desktop\PerThreadSingleton\bin\Debug\PerThreadSingleton.exe
+C:\Users\Ranieri\Desktop\PerThreadSingleton\bin\Debug\PerThreadSingleton.pdb
+C:\Users\Ranieri\Desktop\PerThreadSingleton\obj\Debug\PerThreadSingleton.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\PerThreadSingleton\obj\Debug\PerThreadSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\PerThreadSingleton\obj\Debug\PerThreadSingleton.exe
+C:\Users\Ranieri\Desktop\PerThreadSingleton\obj\Debug\PerThreadSingleton.pdb

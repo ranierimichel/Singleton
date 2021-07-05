@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\AmbientContext\bin\Debug\AmbientContext.exe.config
+C:\Users\Ranieri\Desktop\AmbientContext\bin\Debug\AmbientContext.exe
+C:\Users\Ranieri\Desktop\AmbientContext\bin\Debug\AmbientContext.pdb
+C:\Users\Ranieri\Desktop\AmbientContext\obj\Debug\AmbientContext.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\AmbientContext\obj\Debug\AmbientContext.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\AmbientContext\obj\Debug\AmbientContext.exe
+C:\Users\Ranieri\Desktop\AmbientContext\obj\Debug\AmbientContext.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\Monostate\bin\Debug\Monostate.exe.config
+C:\Users\Ranieri\Desktop\Monostate\bin\Debug\Monostate.exe
+C:\Users\Ranieri\Desktop\Monostate\bin\Debug\Monostate.pdb
+C:\Users\Ranieri\Desktop\Monostate\obj\Debug\Monostate.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\Monostate\obj\Debug\Monostate.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\Monostate\obj\Debug\Monostate.exe
+C:\Users\Ranieri\Desktop\Monostate\obj\Debug\Monostate.pdb

@@ -1,0 +1,16 @@
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\capitals.txt
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\SingletonImplementation.exe.config
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\SingletonImplementation.exe
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\SingletonImplementation.pdb
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\MoreLinq.dll
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\nunit.framework.dll
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\System.ValueTuple.dll
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\MoreLinq.pdb
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\MoreLinq.xml
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\nunit.framework.xml
+C:\Users\Ranieri\Desktop\SingletonImplementation\bin\Debug\System.ValueTuple.xml
+C:\Users\Ranieri\Desktop\SingletonImplementation\obj\Debug\SingletonImplementation.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\SingletonImplementation\obj\Debug\SingletonImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\SingletonImplementation\obj\Debug\SingletonImplementation.csproj.CopyComplete
+C:\Users\Ranieri\Desktop\SingletonImplementation\obj\Debug\SingletonImplementation.exe
+C:\Users\Ranieri\Desktop\SingletonImplementation\obj\Debug\SingletonImplementation.pdb

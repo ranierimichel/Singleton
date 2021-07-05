@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerThreadSingleton", "PerThreadSingleton.csproj", "{6635825F-3CA5-4650-80C5-9F66E47995D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6635825F-3CA5-4650-80C5-9F66E47995D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6635825F-3CA5-4650-80C5-9F66E47995D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6635825F-3CA5-4650-80C5-9F66E47995D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6635825F-3CA5-4650-80C5-9F66E47995D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75052984-B0C8-4D03-9CEE-DC3AB708FA67}
+	EndGlobalSection
+EndGlobal
